@@ -17,6 +17,7 @@ This project scrapes the top 100 anime rankings from MyAnimeList and allows you 
 - **Tkinter GUI**: The interface features a single button to trigger the random anime selection.
 
 ## Additional Notes
-- **MyAnimeList's Terms of Service**: Please ensure your use complies with MyAnimeList’s terms and conditions.
-- **Rate Limits**: Avoid running the scraper too frequently to prevent overloading MyAnimeList's servers.
+- MyAnimeList's Terms of Service: Please ensure your use complies with MyAnimeList’s terms and conditions.
+- Rate Limits: Avoid running the scraper too frequently to prevent overloading MyAnimeList's servers.
 
+https://github.com/user-attachments/assets/6c587a39-7e2f-4056-8aba-16f84bbf12ac
